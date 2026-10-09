@@ -7,9 +7,7 @@
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
 </p>
 
-<p align="center">
-  **Predicting Uber Trip Duration Using Regression Algorithms**
-</p>
+<h3 align="center">🚗 Predicting Uber Trip Duration Using Regression Algorithms</h3>
 
 ---
 
